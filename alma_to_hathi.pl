@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# alma_to_hathi.pl Written by Margaret Briand Wolfe December 17, 2014 for BC Libraries.
+# alma_to_hathi.pl Written by Margaret Briand Wolfe December 17, 2014 for BC Libraries. Modified 2020 for UCSB.
 
 # Build files for Hathi Trust
 # XML files are moved into the directory specified in path_xml by untar_hathi.pl
